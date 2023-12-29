@@ -1,0 +1,7 @@
+requests==2.31.0
+opencv-python==4.8.1.78
+numpy==1.26.2
+Pillow==10.1.0
+streamlit==1.29.0
+streamlit-image-coordinates==0.1.6
+streamlit-dimensions==0.0.1
